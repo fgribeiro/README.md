@@ -2,4 +2,6 @@ Olá, mundo!
 
 Bem vindo ao meu perfil!
 
-<i class="fas fa-star"></i> Este é um ícone de estrela!
+<div class="markdown">
+  <i class="fas fa-star"></i> Ícone de estrela usando HTML
+</div>
